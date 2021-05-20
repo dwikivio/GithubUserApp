@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="appName">Github User App</string>
+    <string name="hint"><font size="16">Cari User...</font></string>
+    <string name="repos">Repositori</string>
+    <string name="location">Lokasi</string>
+    <string name="followers_tab">Pengikut</string>
+    <string name="following_tab">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="detailbio">ini Bio</string>
+    <string name="detailname">Nama Anda</string>
+    <string name="following">Mengikuti</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+</resources>

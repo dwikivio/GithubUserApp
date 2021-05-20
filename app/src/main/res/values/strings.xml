@@ -1,0 +1,20 @@
+<resources font="Pop">
+    <string name="app_name">GithubUserApp</string>
+    <string name="appName">Github User App</string>
+    <string name="hint"><font size="16">Search User...</font></string>
+    <string name="repos">Repositories</string>
+    <string name="location">Location</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="followers">Followers</string>
+    <string name="detailbio">This is Bio Section</string>
+    <string name="detailname">Your Name</string>
+    <string name="following">Followings</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="addfav">Add to Favorite!</string>
+    <string name="removefav">Remove Favorite</string>
+    <string name="settings_page">Setting Page</string>
+    <string name="reminder">Set Reminder (Every 09:00 AM)</string>
+    <string name="favorite_list">Favorites List</string>
+    <string name="alarm_setting">Settings</string>
+</resources>
